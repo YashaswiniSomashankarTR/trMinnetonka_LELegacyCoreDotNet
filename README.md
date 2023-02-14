@@ -1,0 +1,2 @@
+# trMinnetonka_LELegacyCoreDotNet
+httpsgithub.comtrMinnetonka_LELegacyCoreDotNet.git
